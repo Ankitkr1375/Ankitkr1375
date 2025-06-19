@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">🎓 Just a developer from India trying to make cool things with machine learning and the web.</h3>
+<h3 align="center">🎓 Just a developer from India trying to make cool things with machine learning and AI.</h3>
 
 - 🔭 I’m currently working on **an Android application**
 
